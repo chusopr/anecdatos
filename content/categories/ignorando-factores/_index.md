@@ -1,0 +1,3 @@
+---
+title: Ignorando otros factores
+---
