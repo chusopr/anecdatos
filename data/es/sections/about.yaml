@@ -1,0 +1,34 @@
+# section information
+section:
+  name: Info
+  id: home
+  enable: true
+  weight: 1
+  showOnNavbar: false
+  template: sections/about.html
+
+summary: |
+  Los anecdatos son datos que, aún siendo veraces, no aportan información útil y a menudo se usan para llegar a una conclusión que no se puede extraer de los datos aportados.  
+  En este sitio somos fans de los anecdatos y recopilamos sus apariciones en prensa, redes sociales, etc.  
+  Por favor visita también las instrucciones para [contribuir](/contribuir) y la [política de privacidad](/privacidad).  
+  ​  
+  Visita también el sitio hermano [Bonito pero inútil](https://bonitoperoinutil.com).
+  ​  
+  Este sitio está desarrollado con [Hugo](https://gohugo.io) usando una [versión modificada](https://github.com/chusopr/bonitoperoinutil/tree/theme) del tema [toha](https://github.com/hugo-toha/toha).
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "webmaster@anecdatos.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/chusopr/anecdatos"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/amecdatos"
+
+- name: Mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mstdn.io/@anecdatos"

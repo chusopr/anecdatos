@@ -1,0 +1,7 @@
+copyright: © 2021 Copyright.
+description: Datos que, aún siendo veraces, no aportan información útil como se pretende
+customMenus:
+- name: Contribuir
+  url: /contribuir
+- name: Privacidad
+  url: /privacidad

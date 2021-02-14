@@ -1,0 +1,4 @@
+[submodule "themes/toha-bpi"]
+	path = themes/toha-bpi
+	url = https://github.com/chusopr/bonitoperoinutil
+	branch = theme
