@@ -1,5 +1,5 @@
 ---
-title: "Andrés Rodríguez-Seijo: servicio de correos en España y Canadá"
+title: "Servicio de correos en España y Canadá"
 date: 2012-12-13T16:39:46+00:00
 author: chuso
 hero: /posts/2013/12/andresrguez-correos-espana-canada/index.png

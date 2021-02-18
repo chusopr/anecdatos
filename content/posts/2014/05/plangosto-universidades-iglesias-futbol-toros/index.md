@@ -1,5 +1,5 @@
 ---
-title: "Pedro Luis Angosto: el número de Universidades y de todo lo demás"
+title: "El número de Universidades y de todo lo demás"
 date: 2014-05-03T22:09:10+00:00
 author: chuso
 hero: /posts/2014/05/plangosto-universidades-iglesias-futbol-toros/index.png
