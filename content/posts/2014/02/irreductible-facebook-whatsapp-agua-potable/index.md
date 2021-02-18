@@ -1,10 +1,10 @@
 ---
-title: "Javier Peláez: el percio de WhatsApp y el agua potable"
+title: "El percio de WhatsApp y el agua potable"
 date: 2014-02-21T16:37:47+00:00
 author: chuso
 hero: /posts/2014/02/irreductible-facebook-whatsapp-agua-potable/index.png
 summary: " "
-categories: [pib-bolsa]
+categories: [distintas-categorias]
 tags: [irreductible, Twitter, Facebook, WhatsApp, economia]
 ---
 Muy acertadamente, [pregunta @Orillacosmica](https://twitter.com/Orillacosmica/status/436878860727365634): <<¿Durante cuánto tiempo?>>
