@@ -2,6 +2,7 @@
 section:
   name: Info
   id: home
+  title: Anecdatos.com
   enable: true
   weight: 1
   showOnNavbar: false
