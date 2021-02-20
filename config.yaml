@@ -41,6 +41,7 @@ params:
   gitRepo: https://github.com/chusopr/anecdatos
   gitBranch: website
   enableBlogPost: true
+  postsPerPage: 15
   enableTOC: false
   enableSearch: true
   recentPostsNum: 6
