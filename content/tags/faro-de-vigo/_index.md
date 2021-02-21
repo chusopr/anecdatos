@@ -1,0 +1,3 @@
+---
+title: Faro de Vigo
+---

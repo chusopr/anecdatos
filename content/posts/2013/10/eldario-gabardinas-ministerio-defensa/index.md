@@ -5,7 +5,7 @@ author: chuso
 hero: /posts/2013/10/eldario-gabardinas-ministerio-defensa/index.png
 summary: " "
 categories: [sin-contexto]
-tags: [eldiario, ministerio-defensa]
+tags: [eldiario, ministerio-defensa, ejercito]
 ---
 ¿Es mucho dinero? ¿Poco? ¿Cuál es el gasto habitual en gabardinas para el Ejército? ¿Cuántas gabardinas compraron?
 
