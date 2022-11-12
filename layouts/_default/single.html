@@ -88,7 +88,7 @@
 
         {{ if isset .Site.Params "share" }}
         <p class="text-center h2">
-        {{ $shareTags := "" }}
+        {{ $shareTags := "#anecdato " }}
         {{ range $tag := .Params.tags }}
         {{ $shareTags = printf "%s#%s " $shareTags (replace . "-" "") }}
         {{ end }}
