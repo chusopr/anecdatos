@@ -13,4 +13,4 @@ El director no tiene en cuenta en su comparación el distinto tamaño de los dem
 
 También es destacable que de los 44 estados de la Unión Europea, Bayona solo compare España con otros cuatro.
 
-{{< tweet 886202174535069696 >}}
+{{< tweet user=FilmBayona id=886202174535069696 >}}

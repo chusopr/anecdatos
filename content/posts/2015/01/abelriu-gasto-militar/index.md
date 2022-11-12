@@ -13,4 +13,4 @@ Este gráfico además es [Bonito pero inútil](https://bonitoperoinutil.com/post
 
 [Junk Charts](https://junkcharts.typepad.com/junk_charts/2014/10/misguided-warheads-in-the-classroom.html) tiene un excelente análisis de por qué este gráfico es un anecdato. A lo que se puede añadir la [observación de Sergio López](https://twitter.com/slpnix/status/556791658206216192) de que el salario medio probablemente sea distinto en China y EE.UU., lo que redcuce aún más la relevancia de este gráfico.
 
-{{< tweet 523502252338991105 >}}
+{{< tweet user=abel_riu id=523502252338991105 >}}

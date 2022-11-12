@@ -9,4 +9,4 @@ tags: [BenitoArrunada, Twitter, Portugal, catalunya, educacion, Historia]
 ---
 Probablemente, Francia también tenga más menciones que La Rioja.
 
-{{< tweet 500201564142055424 >}}
+{{< tweet user=BenitoArrunada id=500201564142055424 >}}

@@ -7,4 +7,4 @@ summary: " "
 categories: [distintas-categorias]
 tags: [DavidJimenezTw, Twitter, educacion, Sanidad, politica]
 ---
-{{< tweet 484644773362274304 >}}
+{{< tweet user=DavidJimenezTW id=484644773362274304 >}}

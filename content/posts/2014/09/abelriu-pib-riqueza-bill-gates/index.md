@@ -9,4 +9,4 @@ tags: [abel-riu, Twitter, PIB, economia]
 ---
 Comparar PIB con riqueza acumulada. Un clásico.
 
-{{< tweet 511964859743748096 >}}
+{{< tweet user=abel_riu id=511964859743748096 >}}

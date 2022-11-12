@@ -9,4 +9,4 @@ tags: [AFP, migracion, judios]
 ---
 Los países con mayor número de habitantes son los que tienen mayor número de judíos. Sin grandes sorpresas.
 
-{{< tweet 567651979589980163 >}}
+{{< tweet user=afpfr id=567651979589980163 >}}

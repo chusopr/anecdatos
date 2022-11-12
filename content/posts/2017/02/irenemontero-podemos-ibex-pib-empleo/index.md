@@ -13,4 +13,4 @@ En este caso, tenemos a la actual número dos de Podemos y pareja del líder com
 
 El Blog Salmón [explica](https://www.elblogsalmon.com/economia/irene-montero-no-puedes-desmontar-nada-si-comparas-churras-con-merinas) por qué todo esto está mal.
 
-{{< tweet 835202882387525633 >}}
+{{< tweet user=IreneMontero id=835202882387525633 >}}

@@ -13,4 +13,4 @@ Teniendo en cuenta el gasto relativo a la población de cada país, España en r
 
 Punto extra para quien explique qué significa la línea roja.
 
-{{< tweet 771351970627977216 >}}
+{{< tweet user=PodemosCadiz id=771351970627977216 >}}

@@ -11,4 +11,4 @@ A simple vista, podría parecer que Galicia arrolla en esta comparativa.
 
 Pero, como [explica Josu Gómez](https://twitter.com/chusop/status/949609809707503616) este mapa está sesgado por el tamaño de las unidades que se comparan. Las parroquias en Galicia son muchas y más pequeñas. Al ser más, tambien habrá más que empiecen por <<san>> o <<santa>>. Y también habrá más que no empiecen por <<san>> o <<santa>>. Simplemente, porque hay más, en general.
 
-{{< tweet 949022661950177281 >}}
+{{< tweet user=jaumeclotet id=949022661950177281 >}}
