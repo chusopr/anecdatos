@@ -53,7 +53,7 @@ params:
     enable: false
   share:
     facebook: true
-    mastodon: 'En @anecdatos@mstdn.io: "%s" %s'
+    mastodon: 'En @anecdatos@mastodon.la: "%s" %s'
     twitter:
       message: 'En @anecdatos: "%s" %s %s'
       handle: anecdatos
