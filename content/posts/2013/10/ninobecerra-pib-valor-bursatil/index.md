@@ -4,7 +4,7 @@ date: 2012-11-16T14:44:17+00:00
 author: chuso
 hero: /posts/2013/10/ninobecerra-pib-valor-bursatil/index.png
 summary: " "
-categories: [distinta-categoria]
+categories: [distintas-categorias]
 tags: [nino-becerra, Twitter, PIB, bolsa, economia]
 ---
 Comparar valores bursátiles con PIB es ya un clásico, pero en este caso tenemos a un doctor catedrático en Economía.
