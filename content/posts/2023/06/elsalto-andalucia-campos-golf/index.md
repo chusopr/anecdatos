@@ -2,7 +2,7 @@
 title: "Las regiones más extensas son las que tienen más campos de golf"
 date: 2023-06-17T03:53:00+02:00
 author: chuso
-hero: /posts/2023/06/elaslto-andalucia-campos-golf/index.png
+hero: /posts/2023/06/elsalto-andalucia-campos-golf/index.png
 summary: " "
 categories: [distinto-tamano]
 tags: [el-salto, andalucia, golf]
