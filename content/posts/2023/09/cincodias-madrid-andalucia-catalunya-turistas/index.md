@@ -1,5 +1,5 @@
 ---
-title: "Las regiones más pobladas son las que tienen mayor número de turistas"
+title: 'La mayoría de turistas provienen de las regiones más pobladas'
 date: 2023-09-20T16:25:59+02:00
 author: chuso
 hero: /posts/2023/09/cincodias-madrid-andalucia-catalunya-turistas/index.png
